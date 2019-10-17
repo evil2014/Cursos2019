@@ -57,3 +57,31 @@
 | F | f |
 | G | g |
 
+c
+
+
+
+* Tareas 
+** Cuaderno 
+| Tareas                                |
+|-------------------------------------- |
+|1 | Comunicación oral y escrita        |
+|2 | Técnicas de redacción              |
+|3 | Regionalismos                      |
+|4 | Fonemas y letras                   |
+|5 | Palabras del Libro  que no entendían |
+|6 | Frases del Libro                   |
+|7 | Frases de Regionalismos            |
+|8 | Conjugación                        |
+|9 | Tipos de textos académicos         |
+|                                       |
+|-------------------------------------- |
+|                                       |
+** Digital
+
+| Trabajo                     |
+|-----------------------------|
+|1| Comunicación oral y escrita |
+|2| Reseña del libro           |
+|                             |
+ 
